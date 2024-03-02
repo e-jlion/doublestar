@@ -1,2 +1,6 @@
-# doublestar
-star ,hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x6f81fCf1CFdB115435edFF936e91C143aa1780d6'
+quorum: 1
